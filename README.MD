@@ -1,9 +1,9 @@
 # CPP-Blackjack
 Program to play the cardgame of Blackjack in  <C++>
 
-Whenever I'm learning a new programmin language I make my own version of Blackjack as a project to put together everything I've learned into it.
+Whenever I'm learning a new programming language I make my own version of Blackjack as a project to put together everything I've learned into it.
 
-[Software Demo Video](https://youtu.be/IT5U7J_ieKU)
+[Software Demo Video](https://youtu.be/xcnRgNoUoog)
 
 # Development Environment
 Coding Language: C++
