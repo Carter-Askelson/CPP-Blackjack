@@ -16,5 +16,5 @@ IDE: Microsoft Visual Studio Code.
 
 # Future Work
 
-* Add the "Double Down" feature.
+* Split Program into different functions
 * Maybe put the "class" of the card into the game, not just the values.
