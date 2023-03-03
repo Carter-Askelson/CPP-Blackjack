@@ -59,7 +59,6 @@ int main() {
 
         if (player_score > 21) {
           std::cout << "You bust! Your score is " << player_score << ". The dealer wins.\n";
-          break;
         }
       } else if (choice == 's') {
         std::cout << "You stand with a score of " << player_score << ".\n";
